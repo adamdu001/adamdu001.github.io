@@ -18,5 +18,5 @@ Meanwhile, he is also working with Professor WeiShen Lim KBE as well as the NIHR
 
 
 <div class="gallery" markdown="1">
-  ![Picture](/assets/images/IMG_5482.jpg)
+  ![Picture](/assets/images/IMG_5482.jpeg)
 </div>
