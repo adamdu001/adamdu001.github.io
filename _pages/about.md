@@ -1,17 +1,22 @@
 ---
 permalink: /
-title: ""
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!-- ![Picture](assets/images/IMG_5482.jpg){: style="float: left; margin: 0 1rem 1rem 0;" } -->
 
-Anbang Du is a PhD researcher in Computer Science, with strong interests in the intersection of health informatics and complex system. He has a strong quantitative 
+Anbang Du is a PhD researcher in Computer Science with comprehensive experience in big data and complex systems. His research focuses on evaluating interdisciplinarity, knowledge spillovers, and collaboration dynamics within the health-science ecosystem.
 
-Leveraging his skills in big data, his research focuses on developing metrics to inform science and health research policy, including the assessment of interdisciplinarity, spillover, and collaboration dynamics in the ecosystem of (health) science. His research has been published in the Lancet Oncology and the Journal of Informetrics.
+Anbang has published first-author research articles in top tier journals such as The Lancet Oncology and Journal of Informetrics. He has also presented his work at the 15th Annual Conference on Complex Networks (CompleNet 2024) and at France’s International Conference on Complex Systems (FRCCS 2025).
 
-He co-led the project on the analysis of global cancer research investment and R&D network for the Lancet Oncology Commission for the Commonwealth. Leveraging advanced machine learning and large language models, he co-developed an automated text classification framework to accurately annotate medical text data. The automated framework saved months of manual effort of text annotation with high precision.
+In his role as an affiliated research collaborator at the Harvard University Health System Innovation Lab under Professor Rifat Atun, Anbang co-led the project on the analysis of global cancer research investment and R&D network. In March 2025, he has been invited and presented key findings at the Commonwealth Headquarters—alongside the Commonwealth Secretary-General, the Director-General of the WHO, and health ministers from the UK and other Commonwealth nations—forming part of the Commonwealth Lancet Oncology Commission. He is also contributing further original content to the Lancet Oncology Commission report, due for publication later in 2025. 
 
-With the knowledge and experience in social network analysis, he also co-developed global collaboration network models for all four stages of cancer research pipeline, i.e., grant applications, publications, patent, and clinical trials. These provide quantitative insights on the relative standing of each country in the four stages of cancer research, effectively informing policymakers on the strengths and weaknesses of the existing research networks.
+Meanwhile, he is also working with Professor WeiShen Lim KBE as well as the NIHR Respiratory-TRC ARI National Research Strategy Group on the analysis of global respiratory research investment. 
 
+
+<div class="gallery" markdown="1">
+  ![Picture](/assets/images/IMG_5482.jpg)
+</div>
