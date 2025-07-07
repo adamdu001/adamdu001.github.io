@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Integration vs segregation: Network analysis of interdisciplinarity in funded and unfunded research on infectious diseases"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2024-12-20
+venue: 'Journal of Informetrics'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1751157724001469'
+# bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Du A, Head M, Brede M. (2025). &quot;Integration vs segregation: Network analysis of interdisciplinarity in funded and unfunded research on infectious diseases.&quot; <i>Journal of Informetrics</i>. 19(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Interdisciplinary research fuels innovation. In this paper, we examine the interdisciplinarity of research output driven by funding. Considering 36 major infectious diseases, we model interdisciplinarity through temporal correlation networks based on funded and unfunded research from 1995-2022. Using hierarchical clustering, we identify coherent periods of time or regimes characterised by important research topics like vaccinations or the Zika outbreak. We establish that funded research is less interdisciplinary than unfunded research, but the effect has decreased markedly over time. In terms of network growth, we find a tendency of funded research to focus on readily established connections leading to compartmentalisation and conservatism. In contrast, unfunded research tends to be exploratory and bridge distant knowledge leading to knowledge integration. Our results show that interdisciplinary research on prominent infectious diseases like HIV and tuberculosis tends to have strong bridging effects facilitating global knowledge integration in the network. At the periphery of the network, we observe the emergence of vaccination-related and Zika-related knowledge clusters, both with limited systemic impact. We further show that despite the surge in publications related to COVID-19, its systematic impact on the disease network remains relatively low. Overall, this research provides a generalisable framework to examine the impact of funding in interdisciplinary knowledge creation. It can assist in priority setting, for example with horizon scanning for new and emerging threats to health, such as pandemic planning. Policymakers, funding agencies, and research institutions should consider revamping evaluation systems to reward interdisciplinary work and implement mechanisms that promote and support intelligent risk-taking.

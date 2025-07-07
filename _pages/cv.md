@@ -11,54 +11,71 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Southampton, 2023-2027
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, University of Southampton, 2023-2027
+* MSc in Data Science, University of Southampton, 2021-2022
+* BSc & MSc in Mathematics, Operational Research, Statistics, and Economics, University of Warwick, 2017-2021
 
-Work experience
+Research Experience and Leadership
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.10 - Present: Research Collaborator, Health System Innovation Lab, Harvard University
+  * Working with Prof Rifat Atun, I co-led the project on the analysis of global cancer research investment and R&D network for the Lancet Oncology Commission for the Commonwealth.
+  * Project-managed the multi-institutional Lancet Oncology paper with 17 co-authors: designed data-distribution workflows, assigned annotation tasks, oversaw data collection, and coordinated manuscript drafting and revisions.
+  * Co-developed an automated text classification framework to accurately annotate medical text data based on large language models and machine learning algorithms. 
+  * Co-developed global collaboration networks for all four stages of cancer research respectively, i.e., grant applications, publications, patent, and clinical trials, to inform policymakers on the strengths and weaknesses of the research networks. 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 2025.3 - Present: Research Collaborator, NIHR Respiratory-TRC ARI National Research Strategy Group
+  * Working with Prof WeiShen Lim and Prof Tom Wilkinson, I have co-led the project on the analysis of global respiratory research funding.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Grants and Funding
+======
+* 2025.6 - Present SRI Responsive & Travel Funding, University of Southampton
+  * Amount: £1767
+  * Role: Lead Researcher.
+  * Description: Research investment and network analysis on sustainability and climate change with the use of large language models to speed up data annotation.
+
+Academic Service & Professional Memberships
+======
+* Member, Lancet Oncology Commission on Cancer in the Commonwealth
+  * Invited by The Lancet Oncology to serve on the Commission evaluating cancer care across Commonwealth nation
+  * Presented our findings at the Commonwealth Secretariat, London, with the presence of the Secretary-General of the Commonwealth, the Director-General of the WHO , and health ministers of the UK and other member states.
+  * Contributed to strategic recommendations for policy and funding priorities.
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
+Science Communication & Public Engagement
+======
+* Du, A., … et al. “Why Global Cancer Research Funding Is Falling—and How the Commonwealth Could Change the Story.” The Conversation, July 2025
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- * 2025.6 - Present: MSc Dissertation Supervisor
+
+* 2023.10 - Present: Teaching Assistant
+  * University of Southampton
+  * Responsible for delivering tutorials for COMP1215 Foundations of Computer Science.  -->
+
+
+<!-- Skills
 ======
-* Currently signed in to 43 different slack teams
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
