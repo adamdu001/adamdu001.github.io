@@ -1,5 +1,5 @@
 ---
-title: "Biography"
+title: "Anbang Du"
 layout: single
 permalink: /
 author_profile: true

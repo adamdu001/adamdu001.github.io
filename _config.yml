@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Anbang Du Academic Page"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Anbang Du"
 description              : &description "Anbang Du is..."
