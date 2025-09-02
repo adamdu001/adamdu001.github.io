@@ -55,7 +55,7 @@ Academic Service & Professional Memberships
 
 Science Communication & Public Engagement
 ======
-* Du, A., … et al. “Why Global Cancer Research Funding Is Falling—and How the Commonwealth Could Change the Story.” The Conversation, July 2025
+* Michael Head, Anbang Du, Markus Brede “How to save global cancer research from Trump’s cuts” The Conversation, Sep 2025
 
 
 Teaching

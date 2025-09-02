@@ -8,7 +8,7 @@ date: 2025-07-01
 venue: 'The Lancet Oncology'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5122487'
-citation: 'Du A et al. (2025). &quot;Public and Philanthropic Research Funding, Publications and Research Networks for Cancer in the Commonwealth and Globally in 2016-2023: Comparative Analysis.&quot; <i>The Lancet Oncology</i>. X(X).'
+citation: 'Du A et al. (2025). &quot;Public and Philanthropic Research Funding, Publications and Research Networks for Cancer in the Commonwealth and Globally in 2016-2023: Comparative Analysis.&quot; <i>The Lancet Oncology</i>. 26(9), e466–e476.'
 ---
 
 Abstract
