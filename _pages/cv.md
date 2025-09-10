@@ -61,7 +61,7 @@ Science Communication & Public Engagement
 
 Supervision
 ======
-* Second Supervisor to Kimathi Nyota: MSc Data Science, University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
+* Second Supervisor to Kimathi Nyota: MSc Data Science (Class 2025), University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
 
 Teaching
 ======
