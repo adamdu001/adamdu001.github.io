@@ -55,7 +55,14 @@ Academic Service & Professional Memberships
 
 Science Communication & Public Engagement
 ======
-* Michael Head, Anbang Du, Markus Brede “How to save global cancer research from Trump’s cuts” The Conversation, Sep 2025
+* Media Contribution
+  * Michael Head, Anbang Du, Markus Brede “How to save global cancer research from Trump’s cuts” The Conversation, Sep 2025
+* Media Coverage
+  * "Cancer Research Funding Skewed Toward Wealthy Countries" Technology Networks, Sep 2025
+  * "Which countries spend the most money on cancer research?" Euronews, Sep 2025
+  * "The Looming Cancer Research Divide: Why Global Funding Inequalities Threaten Progress" Archyde, Sep 2025
+  * "University of Southampton study reveals major global inequalities in cancer research funding" Innovation News Network, Sep 2025
+  * "New Study Highlights Global Disparities in Cancer Research Funding" Science Magazine, Sep 2025  
 
 
 Teaching
@@ -63,6 +70,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Supervision
+======
+* Second Supervisor to Kimathi Nyota: MSc Data Science, University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
   
 <!-- * 2025.6 - Present: MSc Dissertation Supervisor
 
