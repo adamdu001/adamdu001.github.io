@@ -40,12 +40,7 @@ Grants and Funding
   * Role: Lead Researcher.
   * Description: Research investment and network analysis on sustainability and climate change with the use of large language models to speed up data annotation.
 
-Academic Service & Professional Memberships
-======
-* Member, Lancet Oncology Commission on Cancer in the Commonwealth
-  * Invited by The Lancet Oncology to serve on the Commission evaluating cancer care across Commonwealth nation
-  * Presented our findings at the Commonwealth Secretariat, London, with the presence of the Secretary-General of the Commonwealth, the Director-General of the WHO , and health ministers of the UK and other member states.
-  * Contributed to strategic recommendations for policy and funding priorities.
+
 
 <!-- Talks
 ======
@@ -64,6 +59,9 @@ Science Communication & Public Engagement
   * "University of Southampton study reveals major global inequalities in cancer research funding" Innovation News Network, Sep 2025
   * "New Study Highlights Global Disparities in Cancer Research Funding" Science Magazine, Sep 2025  
 
+Supervision
+======
+* Second Supervisor to Kimathi Nyota: MSc Data Science, University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
 
 Teaching
 ======
@@ -71,10 +69,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Supervision
+Academic Service & Professional Memberships
 ======
-* Second Supervisor to Kimathi Nyota: MSc Data Science, University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
-  
+* Member, Lancet Oncology Commission on Cancer in the Commonwealth
+  * Invited by The Lancet Oncology to serve on the Commission evaluating cancer care across Commonwealth nation
+  * Presented our findings at the Commonwealth Secretariat, London, with the presence of the Secretary-General of the Commonwealth, the Director-General of the WHO , and health ministers of the UK and other member states.
+  * Contributed to strategic recommendations for policy and funding priorities.
+
 <!-- * 2025.6 - Present: MSc Dissertation Supervisor
 
 * 2023.10 - Present: Teaching Assistant
