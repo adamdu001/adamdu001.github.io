@@ -22,7 +22,7 @@ Research Experience and Leadership
   * Project-managed the multi-institutional Lancet Oncology paper with 17 co-authors: designed data-distribution workflows, assigned annotation tasks, oversaw data collection, and coordinated manuscript drafting and revisions.
   * Co-developed an automated text classification framework to accurately annotate medical text data based on large language models and machine learning algorithms. 
   * Co-developed global collaboration networks for all four stages of cancer research respectively, i.e., grant applications, publications, patent, and clinical trials, to inform policymakers on the strengths and weaknesses of the research networks. 
-  
+  * Contributing original content to the Lancet Oncology Commission for the Commonwealth report which is due for publication in late 2025 or early 2026
 
 * 2025.3 - Present: Research Collaborator, NIHR Respiratory-TRC ARI National Research Strategy Group
   * Working with Prof WeiShen Lim and Prof Tom Wilkinson, I have co-led the project on the analysis of global respiratory research funding.
@@ -61,7 +61,7 @@ Science Communication & Public Engagement
 
 Supervision
 ======
-* Second Supervisor to Kimathi Nyota: MSc Data Science (Class 2025), University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
+* Second Supervisor to Kimathi Nyota: MSc Data Science (Class 2024), University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
 
 Teaching
 ======
