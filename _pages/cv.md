@@ -19,7 +19,7 @@ Research Experience and Leadership
 ======
 * 2024.10 - Present: Research Collaborator, Health System Innovation Lab, Harvard University
   * Working with Prof Rifat Atun, I co-led the project on the analysis of global cancer research investment and R&D network for the Lancet Oncology Commission for the Commonwealth.
-  * Project-managed the multi-institutional Lancet Oncology paper with 17 co-authors: designed data-distribution workflows, assigned annotation tasks, oversaw data collection, and coordinated manuscript drafting and revisions.
+  * Project-managed the multi-institutional team with 17 co-authors: designed data-distribution workflows, assigned annotation tasks, oversaw data collection, and coordinated manuscript drafting and revisions.
   * Co-developed an automated text classification framework to accurately annotate medical text data based on large language models and machine learning algorithms. 
   * Co-developed global collaboration networks for all four stages of cancer research respectively, i.e., grant applications, publications, patent, and clinical trials, to inform policymakers on the strengths and weaknesses of the research networks. 
   * Contributing original content to the Lancet Oncology Commission for the Commonwealth report which is due for publication in late 2025 or early 2026
@@ -44,13 +44,11 @@ Grants and Funding
   * Role: Project Leader
   * Description: Presenting our AI-powered platform that makes policy and R&D planning agile. The platform was selected for exhibition as one of 100 projects at Prototypes for Humanity—chosen from 3,300 submissions across more than 100 countries—and the team has been invited to showcase it in Dubai in November 2025.
 
-
-
-<!-- Talks
+Invited Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 Science Communication & Public Engagement
 ======
