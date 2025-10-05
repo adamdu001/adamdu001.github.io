@@ -2,7 +2,8 @@
 title: "A network perspective on interdisciplinary disease funding and research output"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/compleNet2024talk
+redirect_from: /talks/2012-03-01-talk-1
 venue: "15th Annual Conference on Complex Networks"
 date: 2024-04-25
 location: "Exeter, UK"

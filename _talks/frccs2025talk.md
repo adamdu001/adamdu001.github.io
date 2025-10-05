@@ -2,7 +2,8 @@
 title: "Prestigious but less interdisciplinary: a network analysis on top-rated journals in medicine"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/frccs2025talk
+redirect_from: /talks/2014-02-01-talk-2
 venue: "France’s International Conference on Complex Systems 2025"
 date: 2025-05-24
 location: "Bordeaux, France"

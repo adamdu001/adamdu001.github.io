@@ -25,7 +25,7 @@ Research Experience and Leadership
   * Contributing original content to the Lancet Oncology Commission for the Commonwealth report which is due for publication in late 2025 or early 2026
 
 * 2025.3 - Present: Research Collaborator, NIHR Respiratory-TRC ARI National Research Strategy Group
-  * Working with Prof WeiShen Lim and Prof Tom Wilkinson, I have co-led the project on the analysis of global respiratory research funding.
+  * I am leading the project on the analysis of global respiratory research funding.
 
 Publications
 ======
@@ -77,8 +77,10 @@ Academic Service & Professional Memberships
 ======
 * Member, Lancet Oncology Commission on Cancer in the Commonwealth
   * Invited by The Lancet Oncology to serve on the Commission evaluating cancer care across Commonwealth nation
-  * Presented our findings at the Commonwealth Secretariat, London, with the presence of the Secretary-General of the Commonwealth, the Director-General of the WHO , and health ministers of the UK and other member states.
+  * Presented our findings at the Commonwealth Secretariat, London, with the presence of the Secretary-General of the Commonwealth, the Director-General of the WHO, and health ministers of the UK and other member states.
   * Contributed to strategic recommendations for policy and funding priorities.
+  * Contributing to the Commission Report "Research Investment and Network" section.
+* Reviewer, Health Science Report
 
 <!-- * 2025.6 - Present: MSc Dissertation Supervisor
 
