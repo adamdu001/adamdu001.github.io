@@ -1,5 +1,5 @@
 ---
-title: "Funding on Interdisciplinary Research on Infectious Diseases"
+title: "Infectious Disease Research: Funding Trends and Interdisciplinarity"
 collection: talks
 type: "Talk"
 permalink: /talks/who2024talk
