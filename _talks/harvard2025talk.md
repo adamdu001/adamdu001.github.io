@@ -3,7 +3,7 @@ title: "Cancer Science Valuechain"
 collection: talks
 type: "Talk"
 permalink: /talks/harvard2025talk
-venue: "Joint Meeting with Univeristy of Harvard Health System Innovation Lab"
+venue: "Joint Meeting with Harvard University Health System Innovation Lab"
 date: 2025-09-11
 location: "Online"
 ---

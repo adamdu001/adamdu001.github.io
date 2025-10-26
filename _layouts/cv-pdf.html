@@ -1,0 +1,65 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | escape }} - PDF Export | {{ site.name | default: site.title }}</title>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/cv-pdf.css">
+  </head>
+
+  <body class="cv-pdf-layout">
+    <div class="cv-pdf-container">
+      <!-- PDF Export Controls -->
+      <div class="pdf-controls" id="pdf-controls">
+        <button onclick="window.print()" class="pdf-export-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="6,9 6,2 18,2 18,9"></polyline>
+            <path d="M6,18H4a2,2,0,0,1-2-2V11a2,2,0,0,1,2-2H20a2,2,0,0,1,2,2v5a2,2,0,0,1-2,2H18"></path>
+            <rect x="6" y="14" width="12" height="8"></rect>
+          </svg>
+          Export PDF
+        </button>
+        <button onclick="window.close()" class="pdf-close-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+          Close
+        </button>
+      </div>
+
+      <!-- CV Content -->
+      <div class="cv-content">
+        {{ content }}
+      </div>
+    </div>
+
+    <script src="{{ site.baseurl }}/assets/js/cv-pdf.js"></script>
+    <script>
+      // Hide controls when printing
+      window.addEventListener('beforeprint', function() {
+        document.getElementById('pdf-controls').style.display = 'none';
+      });
+      
+      window.addEventListener('afterprint', function() {
+        document.getElementById('pdf-controls').style.display = 'block';
+      });
+
+      // Auto-print on load (optional - uncomment if desired)
+      // window.addEventListener('load', function() {
+      //   setTimeout(function() {
+      //     window.print();
+      //   }, 1000);
+      // });
+    </script>
+  </body>
+</html>
