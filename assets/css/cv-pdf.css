@@ -1,11 +1,12 @@
-/* CV PDF Export Styles */
+/* CV PDF Export Styles - Compact Academic Format */
 .cv-pdf-layout {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.6;
-  color: #333;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.3;
+  color: #000;
   background: #fff;
+  font-size: 11pt;
 }
 
 .cv-pdf-container {
@@ -65,184 +66,276 @@
 
 /* CV Content Styling */
 .cv-content {
-  max-width: 800px;
+  max-width: 7.5in;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 0.5in;
   background: white;
 }
 
 /* Header Section */
 .cv-header {
   text-align: center;
-  margin-bottom: 40px;
-  padding-bottom: 20px;
-  border-bottom: 2px solid #2a7ae2;
+  margin-bottom: 0.3in;
+  padding-bottom: 0.1in;
+  border-bottom: 1px solid #000;
 }
 
 .cv-header h1 {
-  font-size: 2.5em;
-  margin: 0 0 10px 0;
-  color: #2a7ae2;
-  font-weight: 700;
+  font-size: 16pt;
+  margin: 0 0 0.05in 0;
+  color: #000;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .cv-header .contact-info {
-  font-size: 1.1em;
-  color: #666;
-  margin: 10px 0;
-}
-
-.cv-header .contact-info a {
-  color: #2a7ae2;
-  text-decoration: none;
-}
-
-.cv-header .contact-info a:hover {
-  text-decoration: underline;
+  font-size: 10pt;
+  color: #000;
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
 }
 
 /* Section Styling */
 .cv-section {
-  margin-bottom: 30px;
+  margin-bottom: 0.15in;
   page-break-inside: avoid;
 }
 
 .cv-section h2 {
-  font-size: 1.5em;
-  color: #2a7ae2;
-  margin: 0 0 15px 0;
-  padding-bottom: 5px;
-  border-bottom: 1px solid #e0e0e0;
-  font-weight: 600;
+  font-size: 12pt;
+  color: #000;
+  margin: 0 0 0.08in 0;
+  padding-bottom: 0.02in;
+  border-bottom: 1px solid #000;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  text-transform: uppercase;
+  letter-spacing: 0.5pt;
 }
 
 .cv-section h3 {
-  font-size: 1.2em;
-  color: #333;
-  margin: 15px 0 8px 0;
-  font-weight: 600;
+  font-size: 11pt;
+  color: #000;
+  margin: 0.08in 0 0.04in 0;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .cv-section h4 {
-  font-size: 1.1em;
-  color: #555;
-  margin: 12px 0 6px 0;
-  font-weight: 500;
+  font-size: 10pt;
+  color: #000;
+  margin: 0.06in 0 0.03in 0;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
 }
 
 /* List Styling */
 .cv-section ul {
-  margin: 0 0 15px 0;
-  padding-left: 20px;
+  margin: 0 0 0.08in 0;
+  padding-left: 0.2in;
 }
 
 .cv-section li {
-  margin-bottom: 8px;
-  line-height: 1.5;
+  margin-bottom: 0.04in;
+  line-height: 1.2;
+  font-size: 10pt;
 }
 
 .cv-section li ul {
-  margin: 5px 0;
-  padding-left: 20px;
+  margin: 0.03in 0;
+  padding-left: 0.2in;
 }
 
 .cv-section li li {
-  margin-bottom: 4px;
-  font-size: 0.95em;
+  margin-bottom: 0.02in;
+  font-size: 9pt;
 }
 
-/* Publication and Talk Items */
-.publication-item, .talk-item, .teaching-item {
-  margin-bottom: 15px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #f0f0f0;
+/* Education Items */
+.education-item {
+  margin-bottom: 0.08in;
 }
 
-.publication-item:last-child, .talk-item:last-child, .teaching-item:last-child {
-  border-bottom: none;
+.education-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.02in;
 }
 
-.publication-title, .talk-title, .teaching-title {
-  font-weight: 600;
-  color: #2a7ae2;
-  margin-bottom: 5px;
+.institution {
+  font-weight: bold;
+  font-size: 10pt;
 }
 
-.publication-venue, .talk-venue, .teaching-venue {
+.date {
+  font-size: 10pt;
+  font-weight: normal;
+}
+
+.degree {
+  font-size: 10pt;
+  margin-left: 0.1in;
+}
+
+/* Experience Items */
+.experience-item {
+  margin-bottom: 0.08in;
+}
+
+.experience-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.02in;
+}
+
+.position {
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+.company {
+  font-size: 10pt;
+  margin-bottom: 0.02in;
   font-style: italic;
-  color: #666;
-  margin-bottom: 3px;
 }
 
-.publication-date, .talk-date, .teaching-date {
-  color: #888;
-  font-size: 0.9em;
+.description {
+  font-size: 10pt;
+  line-height: 1.2;
+  margin-left: 0.1in;
 }
 
-/* Education and Experience Items */
-.education-item, .experience-item {
-  margin-bottom: 20px;
-  padding: 15px;
-  background: #f8f9fa;
-  border-left: 4px solid #2a7ae2;
-  border-radius: 0 4px 4px 0;
+/* Publication Items */
+.publication-item {
+  margin-bottom: 0.06in;
 }
 
-.education-degree, .experience-position {
-  font-weight: 600;
-  color: #2a7ae2;
-  margin-bottom: 5px;
+.publication-text {
+  font-size: 10pt;
+  line-height: 1.2;
+  text-indent: -0.2in;
+  margin-left: 0.2in;
 }
 
-.education-institution, .experience-company {
-  font-weight: 500;
-  color: #333;
-  margin-bottom: 3px;
+/* Grant Items */
+.grant-item {
+  margin-bottom: 0.06in;
 }
 
-.education-date, .experience-date {
-  color: #666;
-  font-size: 0.9em;
-  margin-bottom: 8px;
+.grant-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.02in;
 }
 
-.experience-description {
-  color: #555;
-  line-height: 1.5;
+.grant-title {
+  font-weight: bold;
+  font-size: 10pt;
 }
 
-/* Skills Section */
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 15px;
-  margin-top: 15px;
+.grant-details {
+  font-size: 10pt;
+  margin-left: 0.1in;
 }
 
-.skill-category {
-  background: #f8f9fa;
-  padding: 15px;
-  border-radius: 6px;
-  border-left: 4px solid #2a7ae2;
+/* Talk Items */
+.talk-item {
+  margin-bottom: 0.06in;
 }
 
-.skill-category h4 {
-  margin: 0 0 8px 0;
-  color: #2a7ae2;
-  font-size: 1em;
+.talk-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.02in;
 }
 
-.skill-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+.talk-title {
+  font-weight: bold;
+  font-size: 10pt;
 }
 
-.skill-list li {
-  margin-bottom: 4px;
-  padding: 2px 0;
-  color: #555;
+.talk-details {
+  font-size: 10pt;
+  margin-left: 0.1in;
+  font-style: italic;
 }
+
+/* Media Items */
+.media-item {
+  margin-bottom: 0.06in;
+}
+
+.media-line {
+  margin-bottom: 0.02in;
+}
+
+.media-title {
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+.media-details {
+  font-size: 10pt;
+  margin-left: 0.1in;
+}
+
+/* Supervision Items */
+.supervision-item {
+  margin-bottom: 0.06in;
+}
+
+.supervision-details {
+  font-size: 10pt;
+  line-height: 1.2;
+}
+
+/* Teaching Items */
+.teaching-item {
+  margin-bottom: 0.06in;
+}
+
+.teaching-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.02in;
+}
+
+.teaching-title {
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+.teaching-details {
+  font-size: 10pt;
+  margin-left: 0.1in;
+  font-style: italic;
+}
+
+/* Service Items */
+.service-item {
+  margin-bottom: 0.06in;
+}
+
+.service-line {
+  margin-bottom: 0.02in;
+}
+
+.service-title {
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+.service-details {
+  font-size: 10pt;
+  margin-left: 0.1in;
+  line-height: 1.2;
+}
+
 
 /* Print Styles */
 @media print {
@@ -253,42 +346,36 @@
   .cv-pdf-layout {
     background: white;
     color: black;
+    font-size: 11pt;
   }
   
   .cv-content {
     max-width: none;
     margin: 0;
-    padding: 0;
+    padding: 0.5in;
   }
   
   .cv-section {
     page-break-inside: avoid;
-    margin-bottom: 20px;
+    margin-bottom: 0.15in;
   }
   
   .cv-section h2 {
     page-break-after: avoid;
     color: #000;
-    border-bottom: 2px solid #000;
+    border-bottom: 1px solid #000;
+    font-size: 12pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5pt;
   }
   
   .cv-header h1 {
     color: #000;
+    font-size: 16pt;
   }
   
   .cv-header {
-    border-bottom: 2px solid #000;
-  }
-  
-  .publication-title, .talk-title, .teaching-title,
-  .education-degree, .experience-position {
-    color: #000;
-  }
-  
-  .education-item, .experience-item,
-  .skill-category {
-    background: #f5f5f5;
-    border-left: 4px solid #000;
+    border-bottom: 1px solid #000;
   }
   
   a {
@@ -298,7 +385,7 @@
   
   a[href^="http"]:after {
     content: " (" attr(href) ")";
-    font-size: 0.8em;
+    font-size: 8pt;
     color: #666;
   }
   
@@ -310,18 +397,18 @@
   /* Optimize for A4 paper */
   @page {
     size: A4;
-    margin: 2cm;
+    margin: 0.75in;
   }
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
   .cv-content {
-    padding: 20px 15px;
+    padding: 0.3in;
   }
   
   .cv-header h1 {
-    font-size: 2em;
+    font-size: 14pt;
   }
   
   .pdf-controls {
@@ -336,7 +423,12 @@
     font-size: 12px;
   }
   
-  .skills-grid {
-    grid-template-columns: 1fr;
+  .education-line, .experience-line, .grant-line, .talk-line, .teaching-line {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .date {
+    margin-top: 0.02in;
   }
 }
