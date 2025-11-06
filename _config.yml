@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_new.JPEG"
+  avatar           : "profile_new_2.JPEG"
   name             : "Anbang Du"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Complex Systems, Computational Social Science and Health Informatics"
+  bio              : "Researcher in Complex Systems and Health Informatics"
   location         : "UK"
   employer         : "University of Southampton"
   uri              : # URL
