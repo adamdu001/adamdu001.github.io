@@ -28,15 +28,20 @@ Education
 
 Research Experience and Leadership
 ======
-* 2024.10 - Present: Research Collaborator, Health System Innovation Lab, Harvard University
-  * Working with Prof Rifat Atun, I co-led the project on the analysis of global cancer research investment and R&D network for the Lancet Oncology Commission for the Commonwealth.
-  * Project-managed the multi-institutional team with 17 co-authors: designed data-distribution workflows, assigned annotation tasks, oversaw data collection, and coordinated manuscript drafting and revisions.
-  * Co-developed an automated text classification framework to accurately annotate medical text data based on large language models and machine learning algorithms. 
-  * Co-developed global collaboration networks for all four stages of cancer research respectively, i.e., grant applications, publications, patent, and clinical trials, to inform policymakers on the strengths and weaknesses of the research networks. 
-  * Contributing original content to the Lancet Oncology Commission for the Commonwealth report which is due for publication in late 2025 or early 2026
+* 2024.10 - Present: Project Lead, Health System Innovation Lab, Harvard University
+  * Co-led Lancet Commonwealth Oncology Commission workstream on global cancer R&D investment and collaboration networks; coordinated a 17-author, multi-institution effort.
+  * Built an LLM-based text-classification pipeline to assign labels across grant/publication corpora.
+  * Developed multiplex, country-level network models spanning funding → publication/trial → patent to assess country positioning.
+  * Contributed analysis and drafting to Lancet Commonwealth Oncology Commission report (due publication 2026); outputs include one first-authored article in The Lancet Oncology (2025) — see Publications.
+  * Invited presentation of findings at the Commonwealth Secretariat HQ (London); briefed commissioners and policymakers on gaps in research investment and network — see Invited Talks.
 
 * 2025.3 - Present: Research Collaborator, NIHR Respiratory-TRC ARI National Research Strategy Group
-  * I am leading the project on the analysis of global respiratory research funding.
+  * Coordinate ~20 collaborators across multiple countries, institutions, and disciplines.
+  * Lead a 2000–2023 mapping of public & philanthropic respiratory-research funding, disaggregated by disease subtype, research phase, age group, geography, communicability, cross-cutting themes, and priority areas.
+  * Developed machine learning and LLM text-classification frameworks to assign labels across grant/publication corpora. 
+  * Quantify pandemic crowd-out / crowd-in effects: estimate whether COVID-19 surges displaced funding for non-COVID respiratory topics.
+  * Planned outputs: peer-reviewed article and NIHR-facing policy brief (Q3–Q4 2026 target)
+
 
 Publications
 ======
@@ -50,10 +55,42 @@ Grants and Funding
   * Amount: £1767
   * Role: Lead Researcher.
   * Description: Research investment analysis on climate change and health.
-* 2025.10 - Prototypes for Humanity 2025 Travel Grant
+  * 2025.10 - Prototypes for Humanity 2025 Travel Grant 
   * Amount: $530
   * Role: Project Leader
-  * Description: Presenting our AI-powered platform that makes policy and R&D planning agile. The platform was selected for exhibition as one of 100 projects at Prototypes for Humanity—chosen from 3,300 submissions across more than 100 countries—and the team has been invited to showcase it in Dubai in November 2025.
+
+
+Entrepreneurship & Innovation
+======
+* 2025.10 - Present: Co-founder — AInotate  (pre-incorporation)                                          
+  * Product: AI-assisted data-annotation platform translating my research on LLM-based text classification into a usable tool (MVP built; private demo available).
+  * Recognition: Selected for Prototypes for Humanity 2025 (innovation & commercialisation focus; 3,300+ submissions from 100+ countries; competitive travel grant; see Grants).
+  * Link: globalhealthunpacked.com/ainotate/
+
+
+Teaching & Supervision
+======
+* Teaching
+  * Teaching assistant, COMP1215 Foundation of Computer Science, University of Southampton. (2023-2025). 
+    * Delivered weekly tutorials to a ~300 student cohort, reinforcing lecture content and guide problem solving. 
+    * Authored weekly problem-sheet solutions and supported students via Q&A through module forum and email.
+    * Proposed lecture-slide improvements.
+  * Teaching assistant, MA1054 Mathematics for Engineering and the Environment, University of Southampton. (2023-2024). 
+    * Marked weekly exercise sheet.
+    * Supported students via weekly 1-to-1 tutorials (~15 students/week).
+
+* Supervision
+  *	Co-supervisor to one MSc Data Science student (Class 2024), University of Southampton. Project: Spread of scientific misconduct in co-authorship network in cancer science.
+
+* Mentorship
+  * Primary mentor for ~12 MSc students per academic year. University of Southampton. (2023-present)
+  * Weekly term-time check-ins providing pastoral support and academic guidance (study planning, assessment strategies, careers advice, and signposting to wellbeing services)
+
+<!-- Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
 
 Invited Talks
 ======
@@ -61,35 +98,23 @@ Invited Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+Academic Service & Professional Memberships
+======
+* Member, Lancet Oncology Commission on Cancer in the Commonwealth
+* Reviewer, Health Science Report
+
 Science Communication & Public Engagement
 ======
 * Media Contribution
   * Michael Head, Anbang Du, Markus Brede “How to save global cancer research from Trump’s cuts” The Conversation, Sep 2025
-* Media Coverage
+* Selected Media Coverage
   * "Cancer Research Funding Skewed Toward Wealthy Countries" Technology Networks, Sep 2025
   * "Which countries spend the most money on cancer research?" Euronews, Sep 2025
   * "The Looming Cancer Research Divide: Why Global Funding Inequalities Threaten Progress" Archyde, Sep 2025
   * "University of Southampton study reveals major global inequalities in cancer research funding" Innovation News Network, Sep 2025
   * "New Study Highlights Global Disparities in Cancer Research Funding" Science Magazine, Sep 2025  
 
-Supervision
-======
-* Second Supervisor to Kimathi Nyota: MSc Data Science (Class 2024), University of Southampton. MSc Project: Spread of scientific misconduct in co-authorship network in cancer science.
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Academic Service & Professional Memberships
-======
-* Member, Lancet Oncology Commission on Cancer in the Commonwealth
-  * Invited by The Lancet Oncology to serve on the Commission evaluating cancer care across Commonwealth nation
-  * Presented our findings at the Commonwealth Secretariat, London, with the presence of the Secretary-General of the Commonwealth, the Director-General of the WHO, and health ministers of the UK and other member states.
-  * Contributed to strategic recommendations for policy and funding priorities.
-  * Contributing to the Commission Report "Research Investment and Network" section.
-* Reviewer, Health Science Report
 
 <!-- * 2025.6 - Present: MSc Dissertation Supervisor
 
