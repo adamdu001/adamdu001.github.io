@@ -115,19 +115,8 @@ Science Communication & Public Engagement
   * "New Study Highlights Global Disparities in Cancer Research Funding" Science Magazine, Sep 2025  
 
 
-
-<!-- * 2025.6 - Present: MSc Dissertation Supervisor
-
-* 2023.10 - Present: Teaching Assistant
-  * University of Southampton
-  * Responsible for delivering tutorials for COMP1215 Foundations of Computer Science.  -->
-
-
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Data Analysis: Python, R, MATLAB, pandas, NumPy, scikit-learn, NetworkX/igraph, PyTorch Geometric
+* ML/AI: RF, XGBoost, working knowledge of GNN/GCN, LLMs, OpenAI API
+* Software Development: frontend (React/Next.js, Tailwind CSS, shadcn/ui); prototyping (Figma & Vercel v0); backend (FastAPI)
