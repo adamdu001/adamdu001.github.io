@@ -54,7 +54,6 @@ Grants and Funding
 * 2025.6 - Present SRI Responsive & Travel Funding, University of Southampton
   * Amount: £1767
   * Role: Lead Researcher.
-  * Description: Research investment analysis on climate change and health.
 * 2025.10 - Prototypes for Humanity 2025 Travel Grant 
   * Amount: $530
   * Role: Project Leader
