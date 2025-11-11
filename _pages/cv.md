@@ -35,7 +35,7 @@ Research Experience and Leadership
   * Contributed analysis and drafting to Lancet Commonwealth Oncology Commission report (due publication 2026); outputs include one first-authored article in The Lancet Oncology (2025) — see Publications.
   * Invited presentation of findings at the Commonwealth Secretariat HQ (London); briefed commissioners and policymakers on gaps in research investment and network — see Invited Talks.
 
-* 2025.3 - Present: Research Collaborator, NIHR Respiratory-TRC ARI National Research Strategy Group
+* 2025.3 - Present: Project Lead, NIHR Respiratory-TRC ARI National Research Strategy Group
   * Coordinate ~20 collaborators across multiple countries, institutions, and disciplines.
   * Lead a 2000–2023 mapping of public & philanthropic respiratory-research funding, disaggregated by disease subtype, research phase, age group, geography, communicability, cross-cutting themes, and priority areas.
   * Developed machine learning and LLM text-classification frameworks to assign labels across grant/publication corpora. 
