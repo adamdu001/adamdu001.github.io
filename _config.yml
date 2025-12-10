@@ -229,7 +229,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  ai_toy_projects:
+  ai-toy-projects:
     output: true
     permalink: /:collection/:path/
   pages:
