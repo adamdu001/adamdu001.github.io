@@ -3,7 +3,7 @@ layout: single
 title: "Simple AI Chatbot"
 date: 2025-11-24
 author_profile: true
-read_time: true
+read_time: false
 share: true
 ---
 
