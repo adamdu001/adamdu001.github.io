@@ -229,11 +229,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  ai_toy_projects:
+    output: true
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:path/
-
-
 
 # These settings control how pages and collections are included in the site
 defaults:
