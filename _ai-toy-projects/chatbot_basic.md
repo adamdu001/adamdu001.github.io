@@ -8,6 +8,6 @@ share: true
 ---
 
 ## Summary
-I built simple AI chatbot with OpenAI API and functions of multi-turn conversations and token budgeting (budget control). 
+I built a simple AI chatbot with OpenAI API and functions of multi-turn conversations and token budgeting (budget control). 
 
 https://github.com/adamdu001/chatbot_demo
