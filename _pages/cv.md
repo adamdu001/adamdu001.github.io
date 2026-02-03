@@ -28,19 +28,26 @@ Education
 
 Research Experience and Leadership
 ======
-* 2024.10 - Present: Project Lead, Health System Innovation Lab, Harvard University
+* 2026 - Present: Visiting Researcher, Health System Innovation Lab, Harvard University
+  * Developed multiplex, country-level network models spanning funding → publication/trial → patent to assess country positioning.
+  * Modelled the fragility of scientific networks in response to funding shocks.
+  * Manuscript in preparation, to be submitted early 2026.
+  * Contributed to The Health Systems Visualizer by computing country–year indicators of global cancer
+  research activity (funding, publications, clinical trials, patents) and developing the project data schema
+  and metadata dictionary (variable definitions, units, standardisation).
+
+* 2024 - Present: Workstream Lead (PhD researcher), Health System Innovation Lab, Harvard University
   * Co-led Lancet Commonwealth Oncology Commission workstream on global cancer R&D investment and collaboration networks; coordinated a 17-author, multi-institution effort.
   * Built an LLM-based text-classification pipeline to assign labels across grant/publication corpora.
-  * Developed multiplex, country-level network models spanning funding → publication/trial → patent to assess country positioning.
-  * Contributed analysis and drafting to Lancet Commonwealth Oncology Commission report (due publication 2026); outputs include one first-authored article in The Lancet Oncology (2025) — see Publications.
+  * Produced one first-authored article in The Lancet Oncology (2025) — see Publications; contributed analysis and drafting to Lancet Commonwealth Oncology Commission report (due publication 2026)
   * Invited presentation of findings at the Commonwealth Secretariat HQ (London); briefed commissioners and policymakers on gaps in research investment and network — see Invited Talks.
 
-* 2025.3 - Present: Project Lead, NIHR Respiratory-TRC ARI National Research Strategy Group
+* 2025 - Present: Workstream Lead (PhD researcher), NIHR Respiratory-TRC ARI National Research Strategy Group
   * Coordinate ~20 collaborators across multiple countries, institutions, and disciplines.
-  * Lead a 2000–2023 mapping of public & philanthropic respiratory-research funding, disaggregated by disease subtype, research phase, age group, geography, communicability, cross-cutting themes, and priority areas.
+  * Lead a 2000–2023 mapping of public & philanthropic respiratory-research funding, disaggregated by disease subtype, research phase, age group, geography, communicability, cross-cutting themes, and priority areas. Manuscript in preparation, to be submitted by Q2 2026.
   * Developed machine learning and LLM text-classification frameworks to assign labels across grant/publication corpora. 
   * Quantify pandemic crowd-out / crowd-in effects: estimate whether COVID-19 surges displaced funding for non-COVID respiratory topics.
-  * Planned outputs: peer-reviewed article and NIHR-facing policy brief (Q3–Q4 2026 target)
+  * Invited presentation of findings at NIHR Respiratory Translational research collaboration meeting.
 
 
 Publications
@@ -51,17 +58,17 @@ Publications
 
 Grants and Funding
 ======
-* 2025.6 - Present SRI Responsive & Travel Funding, University of Southampton
+* 2025 - Present SRI Responsive & Travel Funding, University of Southampton
   * Amount: £1767
   * Role: Lead Researcher.
-* 2025.10 - Prototypes for Humanity 2025 Travel Grant 
+* 2025 - Prototypes for Humanity 2025 Travel Grant 
   * Amount: $530
-  * Role: Project Leader
+  * Role: Lead Researcher.
 
 
 Entrepreneurship & Innovation
 ======
-* 2025.10 - Present: Co-founder — AInotate  (pre-incorporation)                                          
+* 2025 - Present: Co-founder — AInotate  (pre-incorporation)                                          
   * Product: AI-assisted data-annotation platform translating my research on LLM-based text classification into a usable tool (MVP built; private demo available).
   * Recognition: Selected for Prototypes for Humanity 2025 (innovation & commercialisation focus; 3,300+ submissions from 100+ countries; competitive travel grant; see Grants).
   * Link: globalhealthunpacked.com/ainotate/
@@ -70,7 +77,7 @@ Entrepreneurship & Innovation
 Teaching & Supervision
 ======
 * Teaching
-  * Teaching assistant, COMP1215 Foundation of Computer Science, University of Southampton. (2023-2025). 
+  * Teaching assistant, COMP1215 Foundation of Computer Science, University of Southampton. (2023-present). 
     * Delivered weekly tutorials to a ~300 student cohort, reinforcing lecture content and guide problem solving. 
     * Authored weekly problem-sheet solutions and supported students via Q&A through module forum and email.
     * Proposed lecture-slide improvements.
@@ -80,6 +87,8 @@ Teaching & Supervision
 
 * Supervision
   *	Co-supervisor to one MSc Data Science student (Class 2024), University of Southampton. Project: Spread of scientific misconduct in co-authorship network in cancer science.
+    * Weekly supervision provided dataset access and methods support on network analysis.
+    * Outcomes: dissertation 90%; nominated for School's Best Dissertation; manuscript in preparation.
 
 * Mentorship
   * Primary mentor for ~12 MSc students per academic year. University of Southampton. (2023-present)
