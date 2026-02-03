@@ -109,7 +109,7 @@ Invited Talks
 Academic Service & Professional Memberships
 ======
 * Member, Lancet Oncology Commission on Cancer in the Commonwealth
-* Reviewer, Health Science Report
+* Reviewer, Frontiers in Research Metrics and Analytics, Health Science Report, Discovery Oncology
 
 Science Communication & Public Engagement
 ======
