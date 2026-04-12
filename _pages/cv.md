@@ -77,6 +77,7 @@ Entrepreneurship & Innovation
 Teaching & Supervision
 ======
 * Teaching
+  * Associate Fellow of Advance HE
   * Teaching assistant, COMP1215 Foundation of Computer Science, University of Southampton. (2023-present). 
     * Delivered weekly tutorials to a ~300 student cohort, reinforcing lecture content and guide problem solving. 
     * Authored weekly problem-sheet solutions and supported students via Q&A through module forum and email.
