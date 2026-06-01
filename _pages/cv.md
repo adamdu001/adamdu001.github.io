@@ -29,12 +29,12 @@ Education
 Research Experience and Leadership
 ======
 * 2026 - Present: Visiting Researcher, Health System Innovation Lab, Harvard University
-  * Developed multiplex, country-level network models spanning funding → publication/trial → patent to assess country positioning.
-  * Modelled the fragility of scientific networks in response to funding shocks.
-  * Manuscript in preparation, to be submitted early 2026.
+  * Developed multiplex network models spanning funding, publication, clinical trial, and patent to study inequality, fragility and resilience in health science. (Manuscript submitted)
   * Contributed to The Health Systems Visualizer by computing country–year indicators of global cancer
   research activity (funding, publications, clinical trials, patents) and developing the project data schema
   and metadata dictionary (variable definitions, units, standardisation).
+  * Leading sepsis funding and research network study.
+  * Leading health AI funding and research network study.
 
 * 2024 - Present: Workstream Lead (PhD researcher), Health System Innovation Lab, Harvard University
   * Co-led Lancet Commonwealth Oncology Commission workstream on global cancer R&D investment and collaboration networks; coordinated a 17-author, multi-institution effort.
@@ -43,11 +43,12 @@ Research Experience and Leadership
   * Invited presentation of findings at the Commonwealth Secretariat HQ (London); briefed commissioners and policymakers on gaps in research investment and network — see Invited Talks.
 
 * 2025 - Present: Workstream Lead (PhD researcher), NIHR Respiratory-TRC ARI National Research Strategy Group
+  * Lead a 2000–2023 mapping of public & philanthropic respiratory-research funding, disaggregated by disease subtype, research phase, age group, geography, communicability, cross-cutting themes, and priority areas. Manuscript submitted.
   * Coordinate ~20 collaborators across multiple countries, institutions, and disciplines.
-  * Lead a 2000–2023 mapping of public & philanthropic respiratory-research funding, disaggregated by disease subtype, research phase, age group, geography, communicability, cross-cutting themes, and priority areas. Manuscript in preparation, to be submitted by Q2 2026.
-  * Developed machine learning and LLM text-classification frameworks to assign labels across grant/publication corpora. 
-  * Quantify pandemic crowd-out / crowd-in effects: estimate whether COVID-19 surges displaced funding for non-COVID respiratory topics.
-  * Invited presentation of findings at NIHR Respiratory Translational research collaboration meeting.
+  * Built an ML+LLM-based classification pipeline to annotate large-scale respiratory research text corpora.
+  * Built models to estimate whether COVID-19 surges displaced funding for non-COVID respiratory topics.
+  *	Invited presentation of findings at the NIHR Acute Respiratory Infection-National Research Strategy Group meeting — see Invited Talks.
+  
 
 
 Publications
@@ -58,26 +59,25 @@ Publications
 
 Grants and Funding
 ======
-* 2025 - Present SRI Responsive & Travel Funding, University of Southampton
-  * Amount: £1767
-  * Role: Lead Researcher.
-* 2025 - Prototypes for Humanity 2025 Travel Grant 
-  * Amount: $530
-  * Role: Lead Researcher.
+* International Exchanges Grant (£5,000, Royal Society, 2026) 
+* SRI Responsive & Travel Funding (£1,767, University of Southampton, 2025)
+* Prototypes for Humanity 2025 Travel Grant (£378, Prototypes for Humanity, 2025)
+* SRI TECN Summer School Travel Grant (£400, University of Southampton, 2025)
+
 
 
 Entrepreneurship & Innovation
 ======
-* 2025 - Present: Co-founder — AInotate  (pre-incorporation)                                          
+* Co-founder — AInotate  (pre-incorporation)                                          
   * Product: AI-assisted data-annotation platform translating my research on LLM-based text classification into a usable tool (MVP built; private demo available).
-  * Recognition: Selected for Prototypes for Humanity 2025 (innovation & commercialisation focus; 3,300+ submissions from 100+ countries; competitive travel grant; see Grants).
-  * Link: globalhealthunpacked.com/ainotate/
+  * Recognition: 
+    * Selected for Prototypes for Humanity 2025 (innovation & commercialisation focus; 3,300+ submissions from 100+ countries; competitive travel grant; see Grants).
+    * Selected for Havard Health System Innovation Lab Hackathon 2026 (from 13,000+ submissions globally) 
 
 
 Teaching & Supervision
 ======
 * Teaching
-  * Associate Fellow of Advance HE
   * Teaching assistant, COMP1215 Foundation of Computer Science, University of Southampton. (2023-present). 
     * Delivered weekly tutorials to a ~300 student cohort, reinforcing lecture content and guide problem solving. 
     * Authored weekly problem-sheet solutions and supported students via Q&A through module forum and email.
@@ -87,9 +87,11 @@ Teaching & Supervision
     * Supported students via weekly 1-to-1 tutorials (~15 students/week).
 
 * Supervision
-  *	Co-supervisor to one MSc Data Science student (Class 2024), University of Southampton. Project: Spread of scientific misconduct in co-authorship network in cancer science.
-    * Weekly supervision provided dataset access and methods support on network analysis.
-    * Outcomes: dissertation 90%; nominated for School's Best Dissertation; manuscript in preparation.
+  *	Kimathi Nyota (MSc, University of Southampton, Class 2024)
+  *	Chengyu Li (MSc Northeastern University, Class 2025)
+  *	Jacquelyn Addo (Harvard University, Class 2025)
+  *	Alp Karadogan (Harvard University, Class 2025)
+  
 
 * Mentorship
   * Primary mentor for ~12 MSc students per academic year. University of Southampton. (2023-present)
@@ -109,12 +111,14 @@ Invited Talks
 
 Academic Service & Professional Memberships
 ======
+* Associate Fellow of Advance HE
 * Member, Lancet Oncology Commission on Cancer in the Commonwealth
 * Reviewer, Frontiers in Research Metrics and Analytics, Health Science Report, Discovery Oncology
 
 Science Communication & Public Engagement
 ======
 * Media Contribution
+  * Anbang Du, Michael Head, “What’s still plaguing medical philanthropy?” Alliance, Mar 2026
   * Michael Head, Anbang Du, Markus Brede “How to save global cancer research from Trump’s cuts” The Conversation, Sep 2025
 * Selected Media Coverage
   * "Cancer Research Funding Skewed Toward Wealthy Countries" Technology Networks, Sep 2025
