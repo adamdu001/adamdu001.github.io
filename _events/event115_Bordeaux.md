@@ -1,7 +1,9 @@
 ---
 title: "May 2025, University of Bordeaux, Bordeaux, France"
 excerpt: "<br/><img src='/assets/images/IMG_0A785363D46C-1.jpeg'>"
-collection: portfolio
+collection: events
+event_order: 115
+event_date: 2025-05-01
 ---
 <div class="gallery" markdown="1">
   ![Picture](/assets/images/IMG_0A785363D46C-1.jpeg)

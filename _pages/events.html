@@ -1,15 +1,14 @@
 ---
 layout: archive
 title: "Past Events"
-permalink: /portfolio/
+permalink: /events/
 author_profile: true
 excerpt: "Browse all pages on this site."
 ---
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
+{% assign events = site.events | sort: "event_order" %}
+{% for post in events %}
   {% include archive-single.html %}
 {% endfor %}
-

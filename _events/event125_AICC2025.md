@@ -1,7 +1,9 @@
 ---
 title: "November 2025, University of Southampton, Southampton, UK"
 excerpt: "<br/><img src='/assets/images/AICC2025_slide_update.jpg'>"
-collection: portfolio
+collection: events
+event_order: 125
+event_date: 2025-11-01
 ---
 <div class="gallery" markdown="1">
   ![Picture](/assets/images/AICC2025_portrait.jpg)

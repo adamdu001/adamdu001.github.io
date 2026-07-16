@@ -1,7 +1,9 @@
 ---
 title: "Nov 2025, Prototype for Humanity, Dubai, UAE"
 excerpt: "<br/><img src='/assets/images/dubai_future_forum.JPEG'>"
-collection: portfolio
+collection: events
+event_order: 105
+event_date: 2025-11-01
 ---
 <div class="gallery" markdown="1">
   ![Picture](/assets/images/pfh2025.jpg)

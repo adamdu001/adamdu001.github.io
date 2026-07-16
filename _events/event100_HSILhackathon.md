@@ -1,7 +1,9 @@
 ---
 title: "Apr 2026, Harvard HSIL Hackathon 2026, UCL, London, UK"
 excerpt: "<br/><img src='/assets/images/HSIL_hackathon_1.jpg'>"
-collection: portfolio
+collection: events
+event_order: 100
+event_date: 2026-04-01
 ---
 <div class="gallery" markdown="1">
   ![Picture](/assets/images/HSIL_hackathon_2.jpg)

@@ -15,7 +15,7 @@ main:
     url: /publications/
 
   - title: "Past Events"
-    url: /portfolio/
+    url: /events/
 
   - title: "Talks"
     url: /talks/    

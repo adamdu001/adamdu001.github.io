@@ -1,7 +1,9 @@
 ---
 title: "July 2026, Tyndall Centre, University of Manchester, Manchester, UK"
 excerpt: "<br/><img src='/assets/images/manchester.JPG'>"
-collection: portfolio
+collection: events
+event_order: 15
+event_date: 2026-07-01
 ---
 
 

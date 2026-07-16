@@ -1,7 +1,9 @@
 ---
 title: "March 2025, Commonwealth Headquarters, London, UK"
 excerpt: "<br/><img src='/assets/images/IMG_0292.jpg'>"
-collection: portfolio
+collection: events
+event_order: 10
+event_date: 2025-03-01
 ---
 
 
