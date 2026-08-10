@@ -56,6 +56,16 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      <li class="author__booking">
+        <a
+          class="author__booking-link js-booking-trigger"
+          href="{% if author.booking_url %}{{ author.booking_url }}{% else %}mailto:{{ author.email }}?subject=Book%20a%20chat{% endif %}"
+          {% if author.booking_url %}target="_blank" rel="noopener"{% endif %}
+        >
+          <i class="fas fa-fw fa-calendar-check" aria-hidden="true"></i>
+          <span>Book a chat</span>
+        </a>
+      </li>
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
@@ -164,4 +174,32 @@
       {% endif %}      
     </ul>
   </div>
+
+  <dialog class="booking-dialog" aria-labelledby="booking-dialog-title">
+    <div class="booking-dialog__content">
+      <button class="booking-dialog__close" type="button" aria-label="Close booking window">
+        <i class="fas fa-xmark" aria-hidden="true"></i>
+      </button>
+      <h2 id="booking-dialog-title">Book a chat</h2>
+      {% if author.booking_url %}
+        <p class="booking-dialog__intro">Choose a suitable time below. Times are shown in your local timezone.</p>
+        <iframe
+          class="booking-dialog__frame"
+          src="{{ author.booking_url }}"
+          title="Schedule a chat with {{ author.name }}"
+          loading="lazy"
+        ></iframe>
+        <p class="booking-dialog__fallback">
+          Calendar not loading?
+          <a href="{{ author.booking_url }}" target="_blank" rel="noopener">Open the scheduling page in a new tab.</a>
+        </p>
+      {% else %}
+        <div class="booking-dialog__setup">
+          <i class="fas fa-calendar" aria-hidden="true"></i>
+          <p>Online scheduling is being set up. In the meantime, send me an email and we can arrange a time.</p>
+          <a class="btn btn--info" href="mailto:{{ author.email }}?subject=Book%20a%20chat">Request a chat by email</a>
+        </div>
+      {% endif %}
+    </div>
+  </dialog>
 </div>

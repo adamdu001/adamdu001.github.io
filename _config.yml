@@ -30,6 +30,7 @@ author:
   employer         : "University of Southampton"
   uri              : # URL
   email            : "adamdu001@gmail.com" 
+  booking_url      : # Paste an embed-compatible Calendly, Cal.com, Google Calendar, or Microsoft Bookings URL here
 
   # Academic websites
   academia         : # URL
