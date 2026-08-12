@@ -12,9 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <li>
+<li class="cv-archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -33,9 +32,10 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }},  {{post.location}}</p>{% endif %}
-    </li>
+    {% if post.date or post.venue %}
+      <p class="cv-archive__meta" itemprop="description">
+        {% if post.date %}<time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%b %Y' }}</time>{% endif %}{% if post.date and post.venue %}<span aria-hidden="true"> · </span>{% endif %}{% if post.venue %}{{ post.type }} at {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}{% endif %}
+      </p>
+    {% endif %}
   </article>
-</div>
-
+</li>

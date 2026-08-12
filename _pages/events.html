@@ -9,6 +9,8 @@ excerpt: "Browse all pages on this site."
 {% include base_path %}
 
 {% assign events = site.events | sort: "event_order" %}
-{% for post in events %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="events-grid">
+  {% for post in events %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

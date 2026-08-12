@@ -11,25 +11,9 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Past Events"
     url: /events/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "AI Projects"
-    url: /ai-toy-projects/
-
-  - title: "Teaching"
-    url: /teaching/    
-  
-
-    
-
-        
   # - title: "Blog Posts"
   #   url: /year-archive/
     
